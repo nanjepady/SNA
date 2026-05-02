@@ -7,7 +7,7 @@ PhD Research Proposal Pilot Study
 For: Geneva Graduate Institute - SNSF Project on Knowledge Production in Global Education Governance
 
 Methodology: Social Network Analysis (SNA) + Network-Cued Interviews
-Author: [Your Name]
+Author: NANJE PATRICK ITARNGOH
 Date: April 2026
 """
 
